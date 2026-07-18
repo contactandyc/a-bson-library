@@ -1,0 +1,12 @@
+project_title: A BSON Library
+version: 0.1.1
+stack: c/cmake
+date_created: 2026-07-18
+
+base_templates:
+  repo: https://github.com/contactandyc/scaffold-templates.git
+  ref: main
+
+depends_on:
+  - https://github.com/contactandyc/a-memory-library.git
+  - https://github.com/contactandyc/the-macro-library.git
